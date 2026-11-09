@@ -1,0 +1,9 @@
+{
+  "name": "Lumen Schema Kit (read-only snapshot)",
+  "license": "MIT",
+  "latest_version": "0.9.0",
+  "default_branch": "master",
+  "maintainers": [
+    "legacy-archive"
+  ]
+}
